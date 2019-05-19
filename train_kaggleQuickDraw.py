@@ -38,6 +38,7 @@ BATCH_SIZE = 680
 N_CLASS = 340
 W, H = 224, 224
 
+
 LINE_WIDTH = 3
 train_path = '../input/mydata1/train3401000.csv'
 val_path= '../input/mydata1/val3401000.csv'
