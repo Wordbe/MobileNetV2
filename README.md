@@ -17,7 +17,14 @@ val3401000.csv - validation image 340 classes, 1000 each (30%)
 
 # MobileNetV2
 
+MobileNetV2: Inverted Residuals and Linear Bottlenecks
+Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen
+(Submitted on 13 Jan 2018 (v1), last revised 21 Mar 2019 (this version, v4))
 
+https://arxiv.org/abs/1801.04381
+
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzGfStNCy3jhIG-y7Re8CuvK90UpZp_x-uj9Hm4E7tEg8qqc781Q&s)
 
 
 ## Geting Started
