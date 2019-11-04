@@ -11,8 +11,8 @@ train3401000.csv - train image 340 classes, 1000 each (70%)
 
 val3401000.csv - validation image 340 classes, 1000 each (30%)
 
-Geting Started
+## Geting Started
   
-  1. set config
-  2. train
-  3. test
+### set config
+### train
+### test
