@@ -13,6 +13,8 @@ val3401000.csv - validation image 340 classes, 1000 each (30%)
 
 ## Geting Started
   
-### set config
-### train
-### test
+1. Set config
+
+2. Train the model
+
+3. Evaluate using test dataset
